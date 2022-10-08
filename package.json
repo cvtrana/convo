@@ -1,6 +1,6 @@
 {
   "name": "convo",
-  "homepage": "http://cvtrana.github.io/Convocvt",
+  "homepage": "http://cvtrana.github.io/cvtConvo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
