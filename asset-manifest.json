@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/convo/static/css/main.2654647b.css",
-    "main.js": "/convo/static/js/main.969225ca.js",
+    "main.js": "/convo/static/js/main.e7049e4d.js",
     "index.html": "/convo/index.html",
     "main.2654647b.css.map": "/convo/static/css/main.2654647b.css.map",
-    "main.969225ca.js.map": "/convo/static/js/main.969225ca.js.map"
+    "main.e7049e4d.js.map": "/convo/static/js/main.e7049e4d.js.map"
   },
   "entrypoints": [
     "static/css/main.2654647b.css",
-    "static/js/main.969225ca.js"
+    "static/js/main.e7049e4d.js"
   ]
 }
